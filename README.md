@@ -8,6 +8,3 @@ Welcome to Tic Tac Toe! This is a simple command-line implementation of the clas
 3. Players take turns entering a number between 0 and 8 to place their marker on the board:
 4. The first player to get three of their markers in a row (vertically, horizontally, or diagonally) wins the game.
 5. If all nine squares are filled and no player has three in a row, the game is a draw.
-
-### Prerequisites
-Make sure you have Python installed on your system. You can download Python from [python.org](https://www.python.org/).
